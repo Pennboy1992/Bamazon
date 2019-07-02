@@ -38,13 +38,13 @@ function purchasePrompt(){
 	{
 		name: "ID",
 		type: "input",
-		message:"Please enter Item ID you like to purhcase.",
+		message:"Please enter the Item ID of the item you would like to purchase?",
 		filter:Number
 	},
 	{
 		name:"Quantity",
 		type:"input",
-		message:"How many items do you wish to purchase?",
+		message:"How many would you like to purchase?",
 		filter:Number
 	},
 
